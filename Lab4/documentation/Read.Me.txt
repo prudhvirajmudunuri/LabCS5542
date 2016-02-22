@@ -1,0 +1,1 @@
+The source for android project is learnt from http://code.tutsplus.com/tutorials/an-introduction-to-face-detection-on-android--cms-25212
